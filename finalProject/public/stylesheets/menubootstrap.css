@@ -1392,11 +1392,11 @@ html {
 
 body {
     font-family: "Century Gothic", CenturyGothic, sans-serif;
-    font-size: 20px;
+    font-size: 16px;
     line-height: 1.42857143;
     font-weight: 100;
     color: #fff;
-    background-color: #5E5464
+    background-color: #372940
 }
 
 button,
@@ -1552,7 +1552,8 @@ h2,
 h3 {
     margin-top: 20px;
     margin-bottom: 10px;
-    margin-left: 60px;
+    margin-left: 100px;
+    margin-right: 100px;
 
 }
 
@@ -1627,8 +1628,8 @@ h6 {
 }
 
 p {
-    margin-left: 60px;
-    margin-right: 60px;
+    margin-left: 100px;
+    margin-right: 100px;
     float: center;
 }
 
@@ -5154,7 +5155,7 @@ textarea.input-group-sm>.input-group-btn>.btn {
     float: left;
     height: 50px;
     padding: 15px 15px;
-    font-size: 18px;
+    font-size: 24px;
     line-height: 20px
 }
 
